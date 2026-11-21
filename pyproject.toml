@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "invalidation-closure-audit"
+version = "0.1.0"
+description = "An audit of update propagation in agent memory: when one fact changes, seeded belief-dependency graphs with known ground truth score five memory policies on invalidation completeness, silent staleness per depth, collateral damage, and recomputation cost - separating policy failure from provenance-recording failure with an oracle-closure control."
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[project.optional-dependencies]
+dashboard = ["streamlit>=1.30"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
