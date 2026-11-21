@@ -1,0 +1,1534 @@
+{
+ "beliefs": [
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 0,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 7,
+   "write_time": 0
+  },
+  {
+   "cluster": 2,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 1,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 8,
+   "write_time": 1
+  },
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 2,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 2,
+   "write_time": 2
+  },
+  {
+   "cluster": 1,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 3,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 3,
+   "write_time": 3
+  },
+  {
+   "cluster": 2,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 4,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 2,
+   "write_time": 4
+  },
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 5,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 5,
+   "write_time": 5
+  },
+  {
+   "cluster": 1,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 6,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 3,
+   "write_time": 6
+  },
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 7,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 8,
+   "write_time": 7
+  },
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 8,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 5,
+   "write_time": 8
+  },
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 9,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 8,
+   "write_time": 9
+  },
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 10,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 3,
+   "write_time": 10
+  },
+  {
+   "cluster": 2,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 11,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 2,
+   "write_time": 11
+  },
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 12,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 8,
+   "write_time": 12
+  },
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 13,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 5,
+   "write_time": 13
+  },
+  {
+   "cluster": 1,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 14,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 4,
+   "write_time": 14
+  },
+  {
+   "cluster": 0,
+   "depth": 0,
+   "edge_recorded": [],
+   "explicit_refs": [],
+   "id": 15,
+   "kind": "root",
+   "op": null,
+   "parents": [],
+   "session_offset": 0,
+   "value": 8,
+   "write_time": 15
+  },
+  {
+   "cluster": 1,
+   "depth": 1,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [
+    3
+   ],
+   "id": 16,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    3
+   ],
+   "session_offset": 0,
+   "value": 6,
+   "write_time": 16
+  },
+  {
+   "cluster": 1,
+   "depth": 2,
+   "edge_recorded": [
+    false
+   ],
+   "explicit_refs": [],
+   "id": 17,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    16
+   ],
+   "session_offset": 0,
+   "value": 12,
+   "write_time": 17
+  },
+  {
+   "cluster": 0,
+   "depth": 3,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 18,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    17
+   ],
+   "session_offset": 0,
+   "value": 24,
+   "write_time": 18
+  },
+  {
+   "cluster": 0,
+   "depth": 4,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 19,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    18
+   ],
+   "session_offset": 0,
+   "value": 48,
+   "write_time": 150
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 20,
+   "kind": "derived",
+   "op": "inc",
+   "parents": [
+    19
+   ],
+   "session_offset": 0,
+   "value": 51,
+   "write_time": 90
+  },
+  {
+   "cluster": 0,
+   "depth": 1,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    2,
+    9
+   ],
+   "id": 21,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    2,
+    9
+   ],
+   "session_offset": 0,
+   "value": 8,
+   "write_time": 21
+  },
+  {
+   "cluster": 1,
+   "depth": 2,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 22,
+   "kind": "derived",
+   "op": "neg",
+   "parents": [
+    16
+   ],
+   "session_offset": 0,
+   "value": -6,
+   "write_time": 138
+  },
+  {
+   "cluster": 1,
+   "depth": 3,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 23,
+   "kind": "derived",
+   "op": "neg",
+   "parents": [
+    22
+   ],
+   "session_offset": 0,
+   "value": 6,
+   "write_time": 144
+  },
+  {
+   "cluster": 0,
+   "depth": 1,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    13,
+    14
+   ],
+   "id": 24,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    13,
+    14
+   ],
+   "session_offset": 0,
+   "value": 5,
+   "write_time": 24
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 25,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    19,
+    2,
+    21
+   ],
+   "session_offset": 0,
+   "value": 500,
+   "write_time": 25
+  },
+  {
+   "cluster": 0,
+   "depth": 3,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    0
+   ],
+   "id": 26,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    0,
+    17
+   ],
+   "session_offset": 0,
+   "value": -5,
+   "write_time": 106
+  },
+  {
+   "cluster": 1,
+   "depth": 4,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 27,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    16,
+    26
+   ],
+   "session_offset": 0,
+   "value": 6,
+   "write_time": 27
+  },
+  {
+   "cluster": 0,
+   "depth": 4,
+   "edge_recorded": [
+    true,
+    false,
+    true
+   ],
+   "explicit_refs": [
+    12
+   ],
+   "id": 28,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    26,
+    12,
+    17
+   ],
+   "session_offset": 0,
+   "value": -480,
+   "write_time": 28
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    0
+   ],
+   "id": 29,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    0,
+    27
+   ],
+   "session_offset": 2,
+   "value": 3,
+   "write_time": 91
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 30,
+   "kind": "derived",
+   "op": "min",
+   "parents": [
+    28,
+    22
+   ],
+   "session_offset": 0,
+   "value": -480,
+   "write_time": 147
+  },
+  {
+   "cluster": 0,
+   "depth": 4,
+   "edge_recorded": [
+    true,
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 31,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    18,
+    17,
+    21
+   ],
+   "session_offset": 0,
+   "value": 24,
+   "write_time": 126
+  },
+  {
+   "cluster": 0,
+   "depth": 1,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [
+    0
+   ],
+   "id": 32,
+   "kind": "derived",
+   "op": "neg",
+   "parents": [
+    0
+   ],
+   "session_offset": 0,
+   "value": -7,
+   "write_time": 145
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 33,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    28
+   ],
+   "session_offset": 0,
+   "value": -500,
+   "write_time": 94
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    false
+   ],
+   "explicit_refs": [],
+   "id": 34,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    19,
+    6
+   ],
+   "session_offset": 0,
+   "value": 48,
+   "write_time": 34
+  },
+  {
+   "cluster": 1,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 35,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    27
+   ],
+   "session_offset": 0,
+   "value": 12,
+   "write_time": 142
+  },
+  {
+   "cluster": 0,
+   "depth": 1,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [
+    12
+   ],
+   "id": 36,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    12
+   ],
+   "session_offset": 0,
+   "value": 16,
+   "write_time": 36
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 37,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    36,
+    28
+   ],
+   "session_offset": 0,
+   "value": -500,
+   "write_time": 142
+  },
+  {
+   "cluster": 0,
+   "depth": 4,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 38,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    24,
+    23
+   ],
+   "session_offset": 0,
+   "value": -1,
+   "write_time": 38
+  },
+  {
+   "cluster": 0,
+   "depth": 4,
+   "edge_recorded": [
+    true,
+    true,
+    true
+   ],
+   "explicit_refs": [
+    1
+   ],
+   "id": 39,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    18,
+    1,
+    2
+   ],
+   "session_offset": 0,
+   "value": 384,
+   "write_time": 39
+  },
+  {
+   "cluster": 1,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 40,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    39,
+    19
+   ],
+   "session_offset": 0,
+   "value": 336,
+   "write_time": 40
+  },
+  {
+   "cluster": 1,
+   "depth": 4,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 41,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    23
+   ],
+   "session_offset": 0,
+   "value": 12,
+   "write_time": 41
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 42,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    39
+   ],
+   "session_offset": 0,
+   "value": 500,
+   "write_time": 42
+  },
+  {
+   "cluster": 1,
+   "depth": 5,
+   "edge_recorded": [
+    false,
+    true
+   ],
+   "explicit_refs": [
+    6
+   ],
+   "id": 43,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    6,
+    41
+   ],
+   "session_offset": 0,
+   "value": 12,
+   "write_time": 122
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    2
+   ],
+   "id": 44,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    2,
+    27
+   ],
+   "session_offset": 5,
+   "value": 11,
+   "write_time": 123
+  },
+  {
+   "cluster": 2,
+   "depth": 4,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    12
+   ],
+   "id": 45,
+   "kind": "derived",
+   "op": "add",
+   "parents": [
+    12,
+    26
+   ],
+   "session_offset": 0,
+   "value": 3,
+   "write_time": 45
+  },
+  {
+   "cluster": 2,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true,
+    true
+   ],
+   "explicit_refs": [
+    3
+   ],
+   "id": 46,
+   "kind": "derived",
+   "op": "add",
+   "parents": [
+    45,
+    15,
+    39
+   ],
+   "session_offset": 0,
+   "value": 395,
+   "write_time": 105
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true,
+    true
+   ],
+   "explicit_refs": [
+    1,
+    4
+   ],
+   "id": 47,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    39,
+    4,
+    31
+   ],
+   "session_offset": 0,
+   "value": 384,
+   "write_time": 47
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 48,
+   "kind": "derived",
+   "op": "add",
+   "parents": [
+    26,
+    27
+   ],
+   "session_offset": 0,
+   "value": 1,
+   "write_time": 48
+  },
+  {
+   "cluster": 1,
+   "depth": 2,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 49,
+   "kind": "derived",
+   "op": "add",
+   "parents": [
+    14,
+    24
+   ],
+   "session_offset": 0,
+   "value": 9,
+   "write_time": 127
+  },
+  {
+   "cluster": 1,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 50,
+   "kind": "derived",
+   "op": "neg",
+   "parents": [
+    41
+   ],
+   "session_offset": 0,
+   "value": -12,
+   "write_time": 129
+  },
+  {
+   "cluster": 1,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true,
+    true
+   ],
+   "explicit_refs": [
+    14
+   ],
+   "id": 51,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    27,
+    38,
+    45
+   ],
+   "session_offset": 0,
+   "value": 6,
+   "write_time": 51
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 52,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    26,
+    17,
+    27
+   ],
+   "session_offset": 0,
+   "value": -360,
+   "write_time": 52
+  },
+  {
+   "cluster": 1,
+   "depth": 4,
+   "edge_recorded": [
+    true,
+    true,
+    true
+   ],
+   "explicit_refs": [
+    6
+   ],
+   "id": 53,
+   "kind": "derived",
+   "op": "add",
+   "parents": [
+    23,
+    6,
+    17
+   ],
+   "session_offset": 0,
+   "value": 21,
+   "write_time": 53
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 54,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    13,
+    45
+   ],
+   "session_offset": 0,
+   "value": 5,
+   "write_time": 54
+  },
+  {
+   "cluster": 1,
+   "depth": 2,
+   "edge_recorded": [
+    true,
+    false
+   ],
+   "explicit_refs": [
+    14
+   ],
+   "id": 55,
+   "kind": "derived",
+   "op": "min",
+   "parents": [
+    14,
+    24
+   ],
+   "session_offset": 0,
+   "value": 4,
+   "write_time": 86
+  },
+  {
+   "cluster": 2,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    1
+   ],
+   "id": 56,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    1,
+    28
+   ],
+   "session_offset": 0,
+   "value": 8,
+   "write_time": 86
+  },
+  {
+   "cluster": 0,
+   "depth": 1,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [
+    10
+   ],
+   "id": 57,
+   "kind": "derived",
+   "op": "neg",
+   "parents": [
+    10
+   ],
+   "session_offset": -1,
+   "value": -4,
+   "write_time": 57
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    11
+   ],
+   "id": 58,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    19,
+    11
+   ],
+   "session_offset": 0,
+   "value": 48,
+   "write_time": 99
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true,
+    false
+   ],
+   "explicit_refs": [
+    5,
+    8
+   ],
+   "id": 59,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    38,
+    8,
+    5
+   ],
+   "session_offset": -5,
+   "value": -11,
+   "write_time": 114
+  },
+  {
+   "cluster": 2,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    3,
+    6
+   ],
+   "id": 60,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    6,
+    45
+   ],
+   "session_offset": 0,
+   "value": 3,
+   "write_time": 60
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 61,
+   "kind": "derived",
+   "op": "neg",
+   "parents": [
+    28
+   ],
+   "session_offset": 0,
+   "value": 480,
+   "write_time": 127
+  },
+  {
+   "cluster": 1,
+   "depth": 3,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 62,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    17,
+    22
+   ],
+   "session_offset": 0,
+   "value": -72,
+   "write_time": 62
+  },
+  {
+   "cluster": 0,
+   "depth": 4,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 63,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    23,
+    1
+   ],
+   "session_offset": 0,
+   "value": 48,
+   "write_time": 63
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 64,
+   "kind": "derived",
+   "op": "max",
+   "parents": [
+    19,
+    28,
+    39
+   ],
+   "session_offset": 0,
+   "value": 384,
+   "write_time": 131
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    false,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 65,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    63,
+    22
+   ],
+   "session_offset": 0,
+   "value": 54,
+   "write_time": 65
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 66,
+   "kind": "derived",
+   "op": "inc",
+   "parents": [
+    38
+   ],
+   "session_offset": 2,
+   "value": 4,
+   "write_time": 66
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 67,
+   "kind": "derived",
+   "op": "add",
+   "parents": [
+    36,
+    41
+   ],
+   "session_offset": 0,
+   "value": 28,
+   "write_time": 67
+  },
+  {
+   "cluster": 1,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    2
+   ],
+   "id": 68,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    63,
+    31
+   ],
+   "session_offset": 0,
+   "value": 24,
+   "write_time": 68
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 69,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    28
+   ],
+   "session_offset": 0,
+   "value": -500,
+   "write_time": 132
+  },
+  {
+   "cluster": 2,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 70,
+   "kind": "derived",
+   "op": "neg",
+   "parents": [
+    19
+   ],
+   "session_offset": -5,
+   "value": -53,
+   "write_time": 70
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    8
+   ],
+   "id": 71,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    8,
+    63
+   ],
+   "session_offset": 0,
+   "value": -43,
+   "write_time": 71
+  },
+  {
+   "cluster": 1,
+   "depth": 5,
+   "edge_recorded": [
+    false,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 72,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    41,
+    27
+   ],
+   "session_offset": 0,
+   "value": 72,
+   "write_time": 72
+  },
+  {
+   "cluster": 1,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    false,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 73,
+   "kind": "derived",
+   "op": "min",
+   "parents": [
+    41,
+    53,
+    13
+   ],
+   "session_offset": 0,
+   "value": 5,
+   "write_time": 86
+  },
+  {
+   "cluster": 0,
+   "depth": 1,
+   "edge_recorded": [
+    true,
+    false
+   ],
+   "explicit_refs": [
+    9
+   ],
+   "id": 74,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    9,
+    4
+   ],
+   "session_offset": 0,
+   "value": 16,
+   "write_time": 74
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true
+   ],
+   "explicit_refs": [],
+   "id": 75,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    38
+   ],
+   "session_offset": 0,
+   "value": -2,
+   "write_time": 75
+  },
+  {
+   "cluster": 2,
+   "depth": 5,
+   "edge_recorded": [
+    false
+   ],
+   "explicit_refs": [],
+   "id": 76,
+   "kind": "derived",
+   "op": "dbl",
+   "parents": [
+    45
+   ],
+   "session_offset": 4,
+   "value": 10,
+   "write_time": 133
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true,
+    false
+   ],
+   "explicit_refs": [
+    7
+   ],
+   "id": 77,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    19,
+    7,
+    22
+   ],
+   "session_offset": 0,
+   "value": 40,
+   "write_time": 118
+  },
+  {
+   "cluster": 0,
+   "depth": 5,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [],
+   "id": 78,
+   "kind": "derived",
+   "op": "diff",
+   "parents": [
+    45,
+    36
+   ],
+   "session_offset": 0,
+   "value": -13,
+   "write_time": 113
+  },
+  {
+   "cluster": 2,
+   "depth": 1,
+   "edge_recorded": [
+    true,
+    true
+   ],
+   "explicit_refs": [
+    7
+   ],
+   "id": 79,
+   "kind": "derived",
+   "op": "mul",
+   "parents": [
+    1,
+    7
+   ],
+   "session_offset": -2,
+   "value": 62,
+   "write_time": 79
+  }
+ ],
+ "max_depth": 5,
+ "n_beliefs": 80,
+ "seed": 7,
+ "update": {
+  "affected_by_depth": {
+   "1": 1,
+   "2": 2,
+   "3": 4,
+   "4": 10,
+   "5": 29
+  },
+  "affected_ids": [
+   16,
+   17,
+   18,
+   19,
+   20,
+   22,
+   23,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   34,
+   35,
+   38,
+   39,
+   40,
+   41,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   50,
+   51,
+   52,
+   53,
+   58,
+   59,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   70,
+   71,
+   72,
+   75,
+   76,
+   77,
+   78
+  ],
+  "new_value": 5,
+  "old_value": 3,
+  "root_id": 3
+ }
+}
