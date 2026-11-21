@@ -1,0 +1,7 @@
+policy,completeness,staleness,staleness_depth_1,staleness_depth_2,staleness_depth_3plus,collateral_rate,mean_recomputes
+none,0.0000,1.0000,1.0000,1.0000,1.0000,0.0000,0.00
+negation_only,0.0635,0.9365,0.2656,0.8824,0.9751,0.0000,3.28
+recency_wins,0.0680,0.9320,0.5938,0.7794,0.9586,0.0000,15.83
+dependency_closure,0.7468,0.2532,0.1094,0.1912,0.2643,0.0007,29.24
+aggressive_flush,0.2300,0.7700,0.3438,0.5000,0.8078,0.0348,29.19
+oracle_closure,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,37.85

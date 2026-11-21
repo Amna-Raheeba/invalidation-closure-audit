@@ -1,0 +1,287 @@
+{
+  "headline": {
+    "collateral_aggressive_flush": 0.034804,
+    "collateral_dependency_closure": 0.000666,
+    "collateral_negation_only": 0.0,
+    "collateral_none": 0.0,
+    "collateral_recency_wins": 0.0,
+    "completeness_aggressive_flush": 0.230022,
+    "completeness_dependency_closure": 0.746826,
+    "completeness_negation_only": 0.06348,
+    "completeness_none": 0.0,
+    "completeness_recency_wins": 0.067961,
+    "mean_affected_per_update": 24.796296,
+    "n_graphs": 18,
+    "n_updates": 54,
+    "recomputes_aggressive_flush": 29.185185,
+    "recomputes_dependency_closure": 29.240741,
+    "recomputes_negation_only": 3.277778,
+    "recomputes_none": 0.0,
+    "recomputes_recency_wins": 15.833333,
+    "staleness_aggressive_flush": 0.769978,
+    "staleness_deep_aggressive_flush": 0.807788,
+    "staleness_deep_dependency_closure": 0.264292,
+    "staleness_deep_negation_only": 0.975145,
+    "staleness_deep_none": 1.0,
+    "staleness_deep_oracle_closure": 0.0,
+    "staleness_deep_recency_wins": 0.958575,
+    "staleness_dependency_closure": 0.253174,
+    "staleness_negation_only": 0.93652,
+    "staleness_none": 1.0,
+    "staleness_oracle_closure": 0.0,
+    "staleness_recency_wins": 0.932039
+  },
+  "max_depth": 5,
+  "mean_affected_per_update": 24.796296,
+  "n_graphs": 18,
+  "n_updates": 54,
+  "oracle": {
+    "counts": {
+      "affected": 1339,
+      "by_depth": {
+        "1": {
+          "affected": 64,
+          "stale": 0
+        },
+        "2": {
+          "affected": 68,
+          "stale": 0
+        },
+        "3+": {
+          "affected": 1207,
+          "stale": 0
+        }
+      },
+      "correct": 1339,
+      "damaged": 0,
+      "recomputes": 2044,
+      "runs": 54,
+      "stale": 0,
+      "touched_wrong": 0,
+      "unaffected": 6005,
+      "untouched_stale": 0
+    },
+    "rates": {
+      "collateral_rate": 0.0,
+      "completeness": 1.0,
+      "mean_recomputes": 37.851852,
+      "staleness": 0.0,
+      "staleness_by_depth": {
+        "1": 0.0,
+        "2": 0.0,
+        "3+": 0.0
+      },
+      "touched_wrong_share": 0.0
+    }
+  },
+  "policies": {
+    "aggressive_flush": {
+      "counts": {
+        "affected": 1339,
+        "by_depth": {
+          "1": {
+            "affected": 64,
+            "stale": 22
+          },
+          "2": {
+            "affected": 68,
+            "stale": 34
+          },
+          "3+": {
+            "affected": 1207,
+            "stale": 975
+          }
+        },
+        "correct": 308,
+        "damaged": 209,
+        "recomputes": 1576,
+        "runs": 54,
+        "stale": 1031,
+        "touched_wrong": 271,
+        "unaffected": 6005,
+        "untouched_stale": 760
+      },
+      "rates": {
+        "collateral_rate": 0.034804,
+        "completeness": 0.230022,
+        "mean_recomputes": 29.185185,
+        "staleness": 0.769978,
+        "staleness_by_depth": {
+          "1": 0.34375,
+          "2": 0.5,
+          "3+": 0.807788
+        },
+        "touched_wrong_share": 0.262852
+      }
+    },
+    "dependency_closure": {
+      "counts": {
+        "affected": 1339,
+        "by_depth": {
+          "1": {
+            "affected": 64,
+            "stale": 7
+          },
+          "2": {
+            "affected": 68,
+            "stale": 13
+          },
+          "3+": {
+            "affected": 1207,
+            "stale": 319
+          }
+        },
+        "correct": 1000,
+        "damaged": 4,
+        "recomputes": 1579,
+        "runs": 54,
+        "stale": 339,
+        "touched_wrong": 51,
+        "unaffected": 6005,
+        "untouched_stale": 288
+      },
+      "rates": {
+        "collateral_rate": 0.000666,
+        "completeness": 0.746826,
+        "mean_recomputes": 29.240741,
+        "staleness": 0.253174,
+        "staleness_by_depth": {
+          "1": 0.109375,
+          "2": 0.191176,
+          "3+": 0.264292
+        },
+        "touched_wrong_share": 0.150442
+      }
+    },
+    "negation_only": {
+      "counts": {
+        "affected": 1339,
+        "by_depth": {
+          "1": {
+            "affected": 64,
+            "stale": 17
+          },
+          "2": {
+            "affected": 68,
+            "stale": 60
+          },
+          "3+": {
+            "affected": 1207,
+            "stale": 1177
+          }
+        },
+        "correct": 85,
+        "damaged": 0,
+        "recomputes": 177,
+        "runs": 54,
+        "stale": 1254,
+        "touched_wrong": 54,
+        "unaffected": 6005,
+        "untouched_stale": 1200
+      },
+      "rates": {
+        "collateral_rate": 0.0,
+        "completeness": 0.06348,
+        "mean_recomputes": 3.277778,
+        "staleness": 0.93652,
+        "staleness_by_depth": {
+          "1": 0.265625,
+          "2": 0.882353,
+          "3+": 0.975145
+        },
+        "touched_wrong_share": 0.043062
+      }
+    },
+    "none": {
+      "counts": {
+        "affected": 1339,
+        "by_depth": {
+          "1": {
+            "affected": 64,
+            "stale": 64
+          },
+          "2": {
+            "affected": 68,
+            "stale": 68
+          },
+          "3+": {
+            "affected": 1207,
+            "stale": 1207
+          }
+        },
+        "correct": 0,
+        "damaged": 0,
+        "recomputes": 0,
+        "runs": 54,
+        "stale": 1339,
+        "touched_wrong": 0,
+        "unaffected": 6005,
+        "untouched_stale": 1339
+      },
+      "rates": {
+        "collateral_rate": 0.0,
+        "completeness": 0.0,
+        "mean_recomputes": 0.0,
+        "staleness": 1.0,
+        "staleness_by_depth": {
+          "1": 1.0,
+          "2": 1.0,
+          "3+": 1.0
+        },
+        "touched_wrong_share": 0.0
+      }
+    },
+    "recency_wins": {
+      "counts": {
+        "affected": 1339,
+        "by_depth": {
+          "1": {
+            "affected": 64,
+            "stale": 38
+          },
+          "2": {
+            "affected": 68,
+            "stale": 53
+          },
+          "3+": {
+            "affected": 1207,
+            "stale": 1157
+          }
+        },
+        "correct": 91,
+        "damaged": 0,
+        "recomputes": 855,
+        "runs": 54,
+        "stale": 1248,
+        "touched_wrong": 454,
+        "unaffected": 6005,
+        "untouched_stale": 794
+      },
+      "rates": {
+        "collateral_rate": 0.0,
+        "completeness": 0.067961,
+        "mean_recomputes": 15.833333,
+        "staleness": 0.932039,
+        "staleness_by_depth": {
+          "1": 0.59375,
+          "2": 0.779412,
+          "3+": 0.958575
+        },
+        "touched_wrong_share": 0.363782
+      }
+    }
+  },
+  "seeds": [
+    301,
+    302,
+    303,
+    304,
+    305,
+    306
+  ],
+  "sizes": [
+    60,
+    150,
+    300
+  ]
+}
